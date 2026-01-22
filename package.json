@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "build": "cd my-app && npm run build"
+  },
+  "dependencies": {
+    "@workflow/core": "^4.0.1-beta.40",
+    "@workflow/next": "^4.0.1-beta.45",
+    "jszip": "^3.10.1",
+    "undici": "^7.18.2"
+  }
+}
